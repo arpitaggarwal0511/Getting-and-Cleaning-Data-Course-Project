@@ -10,8 +10,8 @@
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link]()
-Tidy Data Set |  Clean Data Set |  [Data Set Link]()
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/arpitaggarwal0511/Getting-and-Cleaning-Data-Course-Project/blob/main/run_analysis.R)
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/arpitaggarwal0511/Getting-and-Cleaning-Data-Course-Project/blob/main/tidyData.txt)
 
 
 
